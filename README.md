@@ -31,5 +31,16 @@ Follow the steps below to set up and run the project:
 
 Clone the project to your local machine using the following command:
 
+
+
 ```bash
 git clone https://github.com/yourusername/simple-blogging-system.git
+
+```
+
+### Step 2: Navigate to the Project Directory
+
+After cloning the repository, navigate to the project directory:
+
+```bash
+cd simple-blogging-system
