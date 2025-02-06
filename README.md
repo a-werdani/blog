@@ -4,7 +4,8 @@ This is a simple blogging system built using **Laravel 11**, where users can cre
 
 ## Watch the Demo: Simple Blogging System
 
-![Image](https://github.com/user-attachments/assets/ce7e059c-fa02-4cf0-90f4-be0cb1049341)
+![Image](https://github.com/user-attachments/assets/aa3d0d6a-45d5-4da9-a8a7-ff67116d0c9b)
+
 
 ## Features
 
